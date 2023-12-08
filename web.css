@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *,
 html {
     padding: 0;
@@ -223,7 +222,7 @@ a {
         display: flex;
         margin-left: 500%;
     }
-=======
+}
 *,
 html {
     padding: 0;
@@ -423,26 +422,3 @@ a {
     background-color: black;
 }
 
-@media screen and (max-width:700px) {
-    .ganteng-nav {
-        display: flex;
-        margin-left: 500%;
-    }
-    .bapak {
-        display: flex;
-        margin-right: 100%;
-    }
-    .azkiya2 {
-        display: flex;
-        margin-left: 500%;
-    }
-    .media {
-        display: flex;
-        margin-left: 500%;
-    }
-    .shop {
-        display: flex;
-        margin-left: 500%;
-    }
->>>>>>> e211ebf751cf181fd16ed219fa675ab74b678e1b
-}
